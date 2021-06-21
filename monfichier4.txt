@@ -1,2 +1,7 @@
 fichier 4 test 
+<<<<<<< HEAD
 lab 7 3
+=======
+lab 7
+web
+>>>>>>> 746a37961ae9321f0b3ba9e3698ac1e6f62314fb
